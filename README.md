@@ -34,6 +34,8 @@ GROQ_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 # run the following command to store embeddings to Pinecone
 python store_index.py
 
+**Planned Deployment:** AWS
+
 # Finally run the following command
 python app.py
 
